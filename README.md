@@ -6,7 +6,7 @@ git clone https://github.com/JOPATE/UmaVer
 cd ./UmaVer
 py ./setup.py
 ```
-After that it should install the dependencies: burntToast and fzf if you dont already have those installed, and the shortcut should be added to the Start Menu.
+After that it should install the dependencies (burntToast and fzf) if you dont already have those installed, and the shortcut should be added to the Start Menu.
 If you find any bugs you can issue them, tho I rarely ever login to Github so idk when i'd fix it.
 
 Also you must install both Umamusume versions before, not necessarily in game downloads...
