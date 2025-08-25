@@ -5,7 +5,7 @@ A tiny Windows/Python utility to quickly switch between the **Global (Steam)** a
 UmaVer works by swapping/renaming the game’s config folder at:
 
 ```
-%LOCALAPPDATA%\Low\Cygames\Umamusume
+%LOCALAPPDATA%Low\Cygames\Umamusume
 ```
 
 This avoids manual backups and lets you jump between **JP** and **Global** profiles in seconds.
