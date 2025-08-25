@@ -100,13 +100,8 @@ This is cosmetic. Re-run setup, then sign out/in or reboot to refresh icon cache
 ---
 
 ## 🤝 Contributing
-Contributions welcome! If you’d like to help:
-
-1. **Fork** the repo
-2. **Create a branch**: `git checkout -b feature/your-idea`
-3. **Commit** your changes: `git commit -m "Add your feature"`
-4. **Push** the branch: `git push origin feature/your-idea`
-5. **Open a Pull Request** and describe your changes
+At the moment, UmaVer doesn’t need code contributions.  
+If you run into any problems, bugs, or have suggestions, please open an [Issue](https://github.com/JOPATE/UmaVer/issues).
 
 > Just note: I don’t check GitHub very often, so responses might be a bit slow.
 
