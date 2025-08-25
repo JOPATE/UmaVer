@@ -8,7 +8,7 @@ UmaVer works by swapping/renaming the game’s config folder at:
 %LOCALAPPDATA%Low\Cygames\Umamusume
 ```
 
-This avoids manual backups and lets you jump between **JP** and **Global** profiles in seconds.
+This avoids manual backups and lets you jump between **Japanese** and **Global** versions in seconds.
 
 ---
 
@@ -73,6 +73,8 @@ Follow the on-screen prompt to choose **Japan** or **Global**. UmaVer will safel
 https://github.com/user-attachments/assets/85e0d786-e0b8-4d0a-a550-ab929a44be5f
 
 > Make sure to launch both games at least once separately (Steam/DMM) with UmaVer so their folders are created as UmaVer will also start the game for you.
+
+> Make sure to not open both versions at the same time.
 
 ---
 
