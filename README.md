@@ -30,7 +30,7 @@ This avoids manual backups and lets you jump between **JP** and **Global** profi
 - **fzf** (required for menu selection)
 - **BurntToast** PowerShell module (required for notifications)
 
-### Installing dependencies (Both should also get installed when running the `setup.py`)
+### Installing dependencies (Both should get installed by running the `setup.py`)
 - **fzf** (choose one):
   - *winget*: `winget install junegunn.fzf`
   - *scoop*: `scoop install fzf`
