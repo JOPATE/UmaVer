@@ -13,7 +13,7 @@ This avoids manual backups and lets you jump between **JP** and **Global** profi
 ---
 
 ## ✨ Features
-- Fast switch between **JP** and **Global** configs
+- Fast switch between **Japanese** and **Global** versions
 - Creates a **Start Menu** shortcut during setup
 - Optional Windows notifications via **BurntToast**
 - Uses **fzf** for a clean, interactive selection
