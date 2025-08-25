@@ -68,7 +68,7 @@ You can start UmaVer in two ways:
 python C:\UmaVer\UmaVer.py
 ```
 
-Follow the on-screen prompt to choose **Japan** or **Global**. UmaVer will safely swap the config folder and open the correct game version.
+Follow the on-screen prompt to choose **Japan** or **Global**. UmaVer will safely swap the game folder and open the correct game version.
 
 https://github.com/user-attachments/assets/85e0d786-e0b8-4d0a-a550-ab929a44be5f
 
@@ -122,7 +122,7 @@ This project is **not affiliated** with Cygames, DMM, or Steam. Use at your own 
 Yep, and it also gives you a small notification, I might add a way to disable it in the future.
 
 **Will switching break updates or downloads?**  
-No. UmaVer only renames local config folders, so game files should remain untouched. 
+No. UmaVer only **renames** local game folders, so game files should remain untouched. 
 
 **Can I use it without BurntToast?**  
 Yep, Notifications are optional; everything else works normally. (did not test this tho, so it might not work.. but its meant to install by itself by running the `setup.py`)
