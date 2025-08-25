@@ -17,7 +17,7 @@ This avoids manual backups and lets you jump between **JP** and **Global** profi
 - Creates a **Start Menu** shortcut during setup
 - Optional Windows notifications via **BurntToast**
 - Uses **fzf** for a clean, interactive selection
-- Simple, portable install (copies files to `C:\UmaVer`)
+- Simple install (copies files to `C:\UmaVer`)
 
 > **Note**: You should have both game versions installed (JP via DMM, Global via Steam) before using UmaVer.
 
@@ -25,17 +25,17 @@ This avoids manual backups and lets you jump between **JP** and **Global** profi
 
 ## 📦 Requirements
 - **Windows 10/11**
-- **Python 3.9+**
+- **Python 3.11+** [Download here](https://www.python.org/downloads/)
 - **Both game versions installed** (Global via Steam, JP via DMM)
 - **fzf** (required for menu selection)
-- **BurntToast** PowerShell module (optional, for notifications)
+- **BurntToast** PowerShell module (required for notifications)
 
 ### Installing dependencies (Both should also get installed when running the `setup.py`)
 - **fzf** (choose one):
   - *winget*: `winget install junegunn.fzf`
   - *scoop*: `scoop install fzf`
   - *choco*: `choco install fzf`
-- **BurntToast** (optional, PowerShell):
+- **BurntToast** (PowerShell):
   - `Install-Module -Name BurntToast -Scope CurrentUser`
 
 ---
@@ -130,7 +130,7 @@ Yep, and it also gives you a small notification, I might add a way to disable it
 No. UmaVer only renames local config folders, so game files should remain untouched. 
 
 **Can I use it without BurntToast?**  
-Yep, Notifications are optional; everything else works normally. (Tho I did not test this)
+Yep, Notifications are optional; everything else works normally. (did not test this tho, so it might not work.. but its meant to install by itself by running the `setup.py`)
 
 **Where are the files stored again?**  
 `%LOCALAPPDATA%Low\Cygames\Umamusume`
